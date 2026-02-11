@@ -12,7 +12,7 @@
     }
   </script>
   
-  <h1>Qii's VIS Site</h1>
+  <h1>Qiii's VIS Site</h1>
   <img
     width="200px"
     src="%sveltekit.assets%/picture.jfif"
