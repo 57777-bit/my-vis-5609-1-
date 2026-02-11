@@ -15,7 +15,7 @@
   <h1>Qiii's VIS Site</h1>
   <img
     width="200px"
-    src="%sveltekit.assets%/picture.jfif"
+    src="%sveltekit.assets%/picture.jfi"
   />
   <div>
     You can click up to
