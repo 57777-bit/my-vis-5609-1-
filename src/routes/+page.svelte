@@ -13,7 +13,6 @@
   </script>
   
   <h1>Qiii's VIS Site</h1>
-  <!-- svelte-ignore a11y_missing_attribute -->
   <img
     width="200px"
     src="/picture.jfif"
